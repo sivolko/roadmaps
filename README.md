@@ -1,2 +1,21 @@
 # Roadmaps ![image](https://cdn.pixabay.com/photo/2020/02/07/12/40/emoji-4827058__340.png)
 This repo contains roadmaps on various topics suggested by various experts on social media and Open source Projects
+
+
+**Community**
+
+Student -Professionals Community for meetups, Learning resource and Open Source Opportunity 
+
+![Discord](https://cdn-icons-png.flaticon.com/128/5968/5968756.png) [Join Discord](https://discord.gg/a7yMsgBJqe)
+
+![WhatsApp](https://cdn-icons-png.flaticon.com/128/3670/3670051.png) [Join WhatsApp](https://chat.whatsapp.com/IHXSSZtYRTzLLVcYb3MYKh)
+
+
+# Python in 90 days 
+
+|                                  	| **Topics**                                                                                                                                                                                                                  	| **Download Free Book**                                                                                                                                            	| **Popular Free Courses**                                                                                                                                                                                                                                                                                      	|
+|----------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Intro: Python & Data Science** 	| Day 0: Python Installation + basic Syntax<br>Day 1: Variables, Data Types, Operators<br>Day 2: Control statements & Loops<br>Day 3: Functions and Libraries<br>Day 4: Data Science Intro                                    	| [Python Crash Course by Eric Matthes](https://github.com/sivolko/roadmaps/blob/f666062441e60a906dc0392fd7930cc371486050/python/No.Starch.Python.Oct.pdf)          	| [Python for Everybody by Dr. Charles Severance on edX](https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt?utm_source=website&utm_medium=partner-marketing&utm_campaign=michiganx&utm_term=Programming+for+Everybody+%28Getting+Started+with+Python%29&utm_content=michigan-online) 	|
+| **Data Analysis with Pandas**    	| Day 5: Pandas Intro & Data structures<br>Day 6: Read & Write Data from various sources<br>Day 7: Data cleaning & Preprocessing <br>Day 8: Data wrangling & Transformation <br>Day 9: Data aggregation & Group by operations 	| [Python for Data Analysis by Wes McKinney](https://github.com/sivolko/roadmaps/blob/f666062441e60a906dc0392fd7930cc371486050/python/Python-for-Data-Analysis.pdf) 	| [Easier data analysis in Python with pandas by Kevin Markham](https://www.dataschool.io/easier-data-analysis-with-pandas/)                                                                                                                                                                                    	|
+|                                  	|                                                                                                                                                                                                                             	|                                                                                                                                                                   	|                                                                                                                                                                                                                                                                                                               	|
+
