@@ -3,7 +3,7 @@
 **This repo contains roadmaps on various topics suggested by various experts on social media and Open source Projects**
 
 
-** Join Community**
+**Join Community**
 
 Student -Professionals Community for meetups, Learning resource and Open Source Opportunity 
 
